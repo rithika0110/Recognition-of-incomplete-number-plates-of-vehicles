@@ -9,9 +9,9 @@ In recent years, the rise in unauthorized vehicles using fake or forged number p
 - STEP 4: If the known digits do not match any license plate numbers in the database, then the incomplete license plate number can only be determined with more data.
 
 # Process of implementation
- Collecting dataset
- Extracting the color
- Extracting the logo
- Extracting the registration number
- Comparing extracted data with the dataset
+- Collecting dataset
+- Extracting the color
+- Extracting the logo
+- Extracting the registration number
+- Comparing extracted data with the dataset
  
